@@ -481,10 +481,11 @@ a {
 }
 
  .logo-container {
-    margin-left: 0;
+   margin-left: 0;
     padding: 0;
-    margin-right: 120px;
+  
 }
+.logo-cont{margin-right: 120px;}
 
 .footer-logo {
     display: inline-block;
@@ -509,7 +510,7 @@ a {
 
 .social-container {
     padding: 0;
-    margin-left: 120px;
+    /* margin-left: 120px; */
 }
 
 
