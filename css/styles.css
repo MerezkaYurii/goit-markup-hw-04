@@ -480,7 +480,7 @@ a {
     align-items: baseline;
 }
 
-.page-footer .logo-container {
+ .logo-container {
     margin-left: 0;
     padding: 0;
     /* margin-right: 120px; */
@@ -507,7 +507,7 @@ a {
 }
 
 
-.page-footer .social-container {
+.social-container {
     padding: 0;
     margin-left: 120px;
 }
